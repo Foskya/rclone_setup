@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false 
+Name= DropBox Ave
+Exec=bash /home/ave/.local/share/bash_scripts/db_ave.sh
+Icon=/home/ave/.local/share/icons/custom/dropbox_icon.png
+Comment=script per lanciare Dropbox tramite Rclone (cloud personale - i.e.: Ave)
+Categories=Cloud
